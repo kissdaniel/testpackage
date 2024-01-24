@@ -2,5 +2,3 @@
 
 """Tests for `testpackage` package."""
 
-def foobar():
-    print('Hello')
